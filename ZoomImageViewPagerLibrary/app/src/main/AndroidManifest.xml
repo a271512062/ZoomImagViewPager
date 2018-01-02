@@ -5,8 +5,6 @@
     <application
         android:allowBackup="true"
         android:supportsRtl="true">
-        <activity android:name=".MainActivity">
-        </activity>
         <activity android:name=".BigPicActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
     </application>
 
